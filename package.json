@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.2.1",
+    "express-session": "^1.18.2"
+  },
+  "name": "e-sports",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryan-ggarcia/e-sports.git"
+  },
+  "author": "Ryan Fidelis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryan-ggarcia/e-sports/issues"
+  },
+  "homepage": "https://github.com/ryan-ggarcia/e-sports#readme",
+  "description": ""
+}
